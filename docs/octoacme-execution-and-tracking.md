@@ -46,7 +46,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - **Level 3**: Sponsor-level escalation for business-impacting issues
   - Resolve: Executive decision, major scope/timeline changes
   - Timeline: Within 1 week
-  - **Use Risk Escalation Template** (see Risk Management & Communication doc)
+  - **Use Risk Escalation Template** (see `octoacme-risks-and-communication.md`)
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo

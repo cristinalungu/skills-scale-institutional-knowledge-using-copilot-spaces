@@ -70,7 +70,7 @@ Applies to all cross-functional projects that deliver product features, services
 
 ### Monthly
 - Stakeholder updates — Project Manager shares progress, milestones, and decisions
-- Architecture review (as needed) — Tech Lead and Developers review technical decisions
+- Architecture review (as needed) — Technical Lead and Developers review technical decisions
 - Documentation review — Technical Writer and team validate documentation quality
 
 ### Ad-hoc

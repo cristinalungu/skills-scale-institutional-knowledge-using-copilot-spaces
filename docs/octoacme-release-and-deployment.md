@@ -26,7 +26,7 @@ The QA Lead must complete and approve this checklist before a release can procee
 - [ ] Integration tests passed for all affected components
 - [ ] Performance tests completed (if applicable)
 - [ ] Security scans completed with no critical/high issues
-- [ ] Accessibility validation completed (WCAG compliance where applicable)
+- [ ] Accessibility validation completed (WCAG 2.1 Level AA compliance where applicable)
 - [ ] Cross-browser/platform testing completed (per test matrix)
 - [ ] Smoke tests prepared and validated on staging
 
@@ -65,7 +65,7 @@ The QA Lead must complete and approve this checklist before a release can procee
 
 ### Gate 1: Release Planning (During Sprint Planning)
 **Decision**: Is the release scope well-defined and feasible?
-- **Participants**: Product Manager, Project Manager, Scrum Master, Tech Lead, QA Lead
+- **Participants**: Product Manager, Project Manager, Scrum Master, Technical Lead, QA Lead
 - **Criteria**: 
   - Release goals and success metrics defined
   - Features prioritized and estimated
@@ -75,7 +75,7 @@ The QA Lead must complete and approve this checklist before a release can procee
 
 ### Gate 2: Code Complete (End of Development Sprint)
 **Decision**: Is the code ready for comprehensive testing?
-- **Participants**: Tech Lead, QA Lead, Scrum Master
+- **Participants**: Technical Lead, QA Lead, Scrum Master
 - **Criteria**:
   - All planned features implemented
   - Code reviews completed
@@ -86,7 +86,7 @@ The QA Lead must complete and approve this checklist before a release can procee
 
 ### Gate 3: QA Signoff (After Testing Phase)
 **Decision**: Is the release ready for production deployment?
-- **Participants**: QA Lead, Product Manager, Project Manager, Tech Lead
+- **Participants**: QA Lead, Product Manager, Project Manager, Technical Lead
 - **Criteria**:
   - QA Signoff Checklist completed
   - Critical/high defects resolved
@@ -96,7 +96,7 @@ The QA Lead must complete and approve this checklist before a release can procee
 
 ### Gate 4: Production Go/No-Go (Pre-Deployment)
 **Decision**: Deploy to production now or postpone?
-- **Participants**: Product Manager, Project Manager, Tech Lead, QA Lead, On-call Engineer
+- **Participants**: Product Manager, Project Manager, Technical Lead, QA Lead, On-call Engineer
 - **Criteria**:
   - Staging deployment successful
   - Smoke tests passed on staging

@@ -23,7 +23,7 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
-- Follow the communication cadence defined in the Project Management Overview
+- Follow the communication cadence defined in `octoacme-project-management-overview.md`
 
 ## Cross-Role Communication Patterns
 - **Scrum Master ↔ Project Manager**: Daily blocker updates, weekly velocity and team health sync

@@ -58,7 +58,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Decision Gate: Planning Approval
 **Decision**: Is the project plan approved and ready to proceed to execution?
-- **Participants**: Product Manager, Project Manager, Tech Lead, Scrum Master, QA Lead, Key Stakeholders
+- **Participants**: Product Manager, Project Manager, Technical Lead, Scrum Master, QA Lead, Key Stakeholders
 - **Criteria**:
   - Project scope and goals are clear and agreed upon
   - Resources committed and available
